@@ -1,15 +1,20 @@
-import React from 'react'
-import Navbar from '../Components/Navbar'
-import Hero from "../Components/Hero"
-import Footer from '../Components/Footer'
+import React from "react";
+import Navbar from "../Components/Navbar";
+import Hero from "../Components/Hero";
+import Footer from "../Components/Footer";
+import AboutUs from "../Components/AboutUs";
+
 const Home = () => {
   return (
     <div>
-        <Navbar/>
-        <Hero/>
-        <Footer/>
-    </div>
-  )
-}
+      <Navbar />
 
-export default Home
+      <Hero />
+      <AboutUs />
+
+      <Footer />
+    </div>
+  );
+};
+
+export default Home;

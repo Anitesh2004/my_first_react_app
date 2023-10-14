@@ -31,7 +31,7 @@ const Footer = () => {
   </div>
   <div className='right'>
     <h4>About the company</h4>
-    <p> Welcome to [Company Name], your trusted partner in transportation solutions. Established with a vision to redefine logistics and transportation services, we are committed to delivering excellence in every mile. 
+    <p> Welcome to AarKay, your trusted partner in transportation solutions. Established with a vision to redefine logistics and transportation services, we are committed to delivering excellence in every mile. 
 
 </p>
     <div className='social'>

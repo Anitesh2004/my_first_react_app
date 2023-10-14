@@ -10,15 +10,17 @@
 }
 
 .cta-button:hover {
-    background-color: #555;
+    background-color: #050505;
 }
 
-.about-us button
+.about-us .link1
+
 {
-    color: #0e0e0e;
+    background-color: #242323;
+    color: #fefdfd;
     font-size: large;
 }
-.about-us button:hover
+.about-us .link1:hover
 {background-color: darkred;
 
 }

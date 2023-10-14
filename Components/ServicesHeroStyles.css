@@ -1,7 +1,7 @@
 
 .services-container {
     text-align: center;
-    margin: 20px;
+    margin-bottom: 20px;
   }
   
   h2 {
@@ -11,6 +11,7 @@
   .category-list {
     display: flex;
     justify-content: center;
+
   }
   
   .category-button {

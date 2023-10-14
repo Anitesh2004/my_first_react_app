@@ -22,10 +22,10 @@
 }
 .location{
   display: flex;
-  margin-bottom: 0.8rem;
+  margin-bottom: 2rem;
 }
 .location p{
-  line-height: 30px;
+  line-height: 3px;
 }
 
 .right
